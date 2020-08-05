@@ -10,7 +10,7 @@ I'm passionate about programming:cupid:
  <br/>:pencil: &nbsp; In constant learning
  <br/> :purple_heart: &nbsp; Looking to collaborate with front-end projects using Node.js and JavaScript to increase my knowledge
  <br/> :blush: &nbsp; I can help you with CSS Grid Layout, Flexbox and Sass
- <br/> :computer: &nbsp; My current stack: Node.js and JavaScript 
+ <br/> :computer: &nbsp; My current skills: Node.js and JavaScript 
  <br/> 💬  &nbsp; About me: I love technologies, desgner, series and action films
 ## Contact me:
 [![Linkedin Badge](https://img.shields.io/badge/-LayliaDhenyfer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laylia-dhennyfe-74b119197/)](https://www.linkedin.com/in/tgmarinho/) 
