@@ -14,7 +14,5 @@ I'm passionate about programming:cupid:
  <br/> 💬  &nbsp; About me: I love technologies, desgner, series and action films
 ## Contact me:
 [![Linkedin Badge](https://img.shields.io/badge/-LayliaDhenyfer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laylia-dhennyfe-74b119197/)](https://www.linkedin.com/in/tgmarinho/) 
-
 [![Tweet](https://img.shields.io/twitter/url/https/github.com/tterb/hyde.svg?style=social)](https://https://twitter.com/Laylia36265501?s=08/intent/tweet?text=Check%20out%20Hyde!%20%E2%9C%A8%20An%20accessible,%20open-source%20markdown%20editor%20for%20any%20user%20E2%9C%A8%20https://https://twitter.com/Laylia36265501?s=08/tterb/hyde%20%F0%9F%A4%97)
-
 [![Gmail Badge](https://img.shields.io/badge/-layliadhennyfe20017@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:layliadhennyfe20017@gmail.com)](mailto:layliadhennyfe20017@gmail.com) 
